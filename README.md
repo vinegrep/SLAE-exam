@@ -16,6 +16,6 @@ Assignment 4: https://vinegrep.blogspot.com/2019/06/slae-assignment-4-custom-enc
 
 Assignment 5: https://vinegrep.blogspot.com/2020/01/slae-assignment-5-msf-payload-analysis.html
 
-Assignment 6: 
+Assignment 6: https://vinegrep.blogspot.com/2020/02/slae-assignment-6-polymorphic-shellcode.html
 
 Assignment 7: 
