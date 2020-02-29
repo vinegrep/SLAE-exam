@@ -18,4 +18,4 @@ Assignment 5: https://vinegrep.blogspot.com/2020/01/slae-assignment-5-msf-payloa
 
 Assignment 6: https://vinegrep.blogspot.com/2020/02/slae-assignment-6-polymorphic-shellcode.html
 
-Assignment 7: 
+Assignment 7: https://vinegrep.blogspot.com/2020/02/slae-assignment-7-custom-crypter.html
